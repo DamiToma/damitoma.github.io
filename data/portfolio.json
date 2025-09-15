@@ -1,0 +1,110 @@
+{
+    "name": "Damiano",
+    "headerTaglineOne": "Hello",
+    "headerTaglineTwo": "I'm Damiano,",
+    "headerTaglineThree": "Software Engineer.",
+    "showBlog": true,
+    "darkMode": true,
+    "showResume": true,
+    "socials": [
+      {
+        "id": "1",
+        "title": "GitHub",
+        "link": "https://github.com/DamiToma"
+      },
+      {
+        "id": "2",
+        "title": "LinkedIn",
+        "link": "https://www.linkedin.com/in/damianotomazzolli/"
+      },
+      {
+        "id": "3",
+        "title": "Wick Hunter",
+        "link": "https://wickhunter.io"
+      },
+      {
+        "id": "4",
+        "title": "Email",
+        "link": "mailto:damiano.tomazzolli@gmail.com"
+      },
+      {
+        "id": "5",
+        "title": "X",
+        "link": "https://x.com/DamiTomaGoBrrr"
+      }
+    ],
+    "aboutpara": "I wrote my first lines of code at 12 and never looked back. Ten years later, I graduated in Computer Science from Politecnico di Milano and co-founded Wick Hunter — a startup focused on delivering some of the fastest trading bots on the market. Today, we serve tens of thousands of users worldwide, helping them trade smarter and faster.",
+    "getInTouch": "Feel free to reach out via LinkedIn or email — I’m always happy to chat about software engineering, finance, or anything in between. I’d especially love to tell you more about how Wick Hunter can simplify your life as a trader, or even better, how it can take your trading group to the next level — all at one of the most competitive prices on the market.",
+    "resume": {
+      "tagline": "👋  I'm a Software Engineer.",
+      "description": "I have developed trading platforms that handled billions in transactions and several millions in assets. More about this in the Blog.",
+      "experiences": [
+        {
+          "id": "1",
+          "dates": "September 2021 – Present",
+          "type": "Full Time",
+          "position": "CTO at Wick Hunter",
+          "bullets": [
+            "Co-founded and led the development of a SaaS platform specializing in trading bots for spot and derivatives markets, serving tens of thousands of registered users",
+            "Designed and implemented a distributed system to handle millions of dollars in assets and billions of dollars in transactions",
+            "Developed CI/CD pipelines with AWS integration, implemented fault-tolerant and highly available architectures, and established automated testing practices",
+            "Coordinated and guided a team of freelance contributors on an as-needed basis, ensuring project alignment and quality across various development phases"
+          ],
+          "skills": "Node.js, AWS, MySQL, Redis, RabbitMQ, Docker, React, and more"
+        },
+        {
+          "id": "2",
+          "dates": "September 2021 – December 2022",
+          "type": "Full Time",
+          "position": "Full Stack Developer at CASAIN.CLOUD S.R.L.",
+          "bullets": [
+            "Co-founded a SaaS platform specializing in the management of real estate documents, processes, and data",
+            "Designed and optimized the database schema and software architecture, ensuring scalable and efficient data management"
+          ],
+          "skills": "PHP, MySQL, Node.js, jQuery"
+        },
+        {
+          "id": "3",
+          "dates": "June 2020 – Present",
+          "type": "Freelance",
+          "position": "Full Stack Developer (Freelancer)",
+          "bullets": [
+            "Developed Telegram bots with payment and third-party API integration",
+            "Created management software for warehouse data and process automation",
+            "Automated trading strategies for financial derivatives and other instruments"
+          ],
+          "skills": "Java, Stripe, Linux"
+        },
+        {
+          "id": "4",
+          "dates": "Summer 2018, 2019",
+          "type": "Internship",
+          "position": "Software Engineer Intern at Dimension S.R.L.",
+          "bullets": [
+            "Developed smart contracts using Solidity on the Ethereum platform",
+            "Built a private blockchain explorer to store, decode, and analyze transaction data"
+          ],
+          "skills": "Solidity, Ethereum, Blockchain"
+        }
+      ],
+      "education": [
+        {
+          "universityName": "Politecnico di Milano",
+          "universityDate": "Sept 2020 - March 2024",
+          "universityPara": "I graduated with a Bachelor’s degree in Computer Systems Engineering",
+          "coursework": "Software Engineering, Algorithms, Calculus and Linear Algebra, Computer Systems Architecture"
+        },
+        {
+          "universityName": "Weymouth College",
+          "universityDate": "Sept 2018 - Dec 2018",
+          "universityPara": "Completed the first semester of the BTEC program in Information Technology"
+        },
+        {
+          "universityName": "ITT Buonarroti",
+          "universityDate": "Sep 2015 - June 2020",
+          "universityPara": "Graduated with honors (100/100 cum laude) in Information Technology",
+          "coursework": "Software Development, Networking, Mathematics"
+        }
+      ]
+    }
+  }
